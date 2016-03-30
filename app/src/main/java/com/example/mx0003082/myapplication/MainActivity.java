@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         //sample comment to check on github
-        //committ
+        //commit
+        //firstbranch commit
 
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
